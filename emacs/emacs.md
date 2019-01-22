@@ -38,7 +38,7 @@
 * M-g M-g,num：跳转至第几行
 * C-x 0：关闭当前缓冲区
 * C-x C-c：退出
-
+* 命令行模式：`emacs -nw`
 ## 自动补全插件
 * 名字：[company-mode](http://company-mode.github.io/)
 * 安装步骤：调出命令M-x；输入list-packages，回车；出现的列表点company；点击install；点击Yes
