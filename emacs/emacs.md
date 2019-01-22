@@ -45,6 +45,7 @@
 
 
 
-## 来源
+## 引用与资料
 * [程序猿助手](https://www.cnblogs.com/blfshiye/p/4566900.html)
 * [Emacs精通指南](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
+* [从零开始](https://www.jianshu.com/p/b4cf683c25f3)
