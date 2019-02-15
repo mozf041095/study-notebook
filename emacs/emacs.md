@@ -51,3 +51,4 @@
 * [程序猿助手](https://www.cnblogs.com/blfshiye/p/4566900.html)
 * [Emacs精通指南](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
 * [从零开始](https://www.jianshu.com/p/b4cf683c25f3)
+* [文件配置指南](https://blog.csdn.net/xh_acmagic/article/details/78939246)
